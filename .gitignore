@@ -1,0 +1,3 @@
+# Project exclude paths
+/supergo-eureka/target/
+/supergo-manager-service/target/
